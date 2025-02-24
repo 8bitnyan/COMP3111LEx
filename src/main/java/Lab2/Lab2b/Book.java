@@ -1,4 +1,4 @@
-package Lab2b;
+package Lab2.Lab2b;
 
 /*	Comp3111LEx\Lab2b\Book.java		*/
 public class Book {

@@ -1,4 +1,4 @@
-package Lab2b;
+package Lab2.Lab2b;
 
 /* 	Comp3111LEx\Lab2b\mainApp2b.java
 	main Application for Lab2 Exercise 2	*/
